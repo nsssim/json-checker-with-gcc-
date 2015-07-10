@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1436537634 source:c:\users\nsm\documents\jsnochecker\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	"JSON_checker.h"
+
+1436537554 c:\users\nsm\documents\jsnochecker\json_checker.h
+
